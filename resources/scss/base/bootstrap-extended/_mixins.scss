@@ -1,0 +1,12 @@
+//  ===============================================================================================
+//  File Name: mixins.scss
+//  Description: Extended mixins file with new mixins features.
+//  ----------------------------------------------------------------------------------------------
+//  Item Name: Vuexy - Vuejs, React, Angular, HTML & Laravel Admin Dashboard Template
+// Hello World
+//  ================================================================================================
+
+@import "mixins/_type"; //(NEW)
+
+// Components
+@import "mixins/_navs";
